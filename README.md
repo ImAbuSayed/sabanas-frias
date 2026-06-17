@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-frias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-frias/) |
+| **Get License** | [Request Licensing for Sábanas frías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-frias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas frías, pero el club está que quema
+> Tu mirada me dice que hoy rompemos el sistema
+> Seduciendo la noche, baby, tú eres la reina
+> I got you looking, mami, y eso me envenena
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
