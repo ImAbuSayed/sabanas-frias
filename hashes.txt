@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas frías
+
+This log tracks the cryptographic history and versioning for the song **Sábanas frías** (sabanas-frias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T23:00:20.317931 | `v1` | `3d313eca1f5f3235ebb546ac9620b7afd8af3d5c7d408379ca5644a15b8fd92a` | `b6ff0816f627063843420fcaa43887e5fc5035af457e328db29f320fbd2ab048` | `2026-06-17_sabanas-frias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
